@@ -1,7 +1,7 @@
 # Unit1
 
-*bold*
+*italics*
 
-**italics**
+**bold**
 
 MEJO 570 repo
